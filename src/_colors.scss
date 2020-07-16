@@ -1,0 +1,13 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #333;
+
+$themes: (
+    light: (
+        color-background: #FAFAFA,
+        color-card: #FFF
+    ),
+    dark: (
+        color-background: #37474F,
+        color-card: #212121
+    )
+);
